@@ -1,17 +1,17 @@
 ### Hi there 🙋‍♂️
 
-<a href="https://www.linkedin.com/in/tanmoy-tanchangya-a9340522a/">
+<a href="https://www.linkedin.com/in/abdul-mujeed-shakib-21a148226">
   <img align="left" alt="Emilly's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <br>
 
-<br> My name is Tanmoy Joy. I'm a passionate frontend enthusiast with a flair for blockchain technology.
-<br><br> 🔭 Currently learning about NextJs new released documentation and blockchain technologies.
+<br> My name is Abdul Mujeed Shakib. I'm a passionate frontend developer.
+<br><br> 🔭 Currently learning about NextJs new released documentation and redux.
 <br><br> 🌱 I am passionate about learning new technologies and transforming ideas to code.
 <br><br> ⚡ Recently my projects are SaaS-related, trying to create new products that'll help people to make lives better.
-<br><br> For more info, you can visit my [porftolio](https://tanmoy77.github.io/)
+<br><br> For more info, you can visit my [porftolio](http://alpha3bd.herokuapp.com/)
 
 <br>
 
